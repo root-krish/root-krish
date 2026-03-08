@@ -13,7 +13,8 @@ Hello, I'm Krishnendu Ghosh, a Computer Science student at Barrackpore Rastragur
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=root-krish&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # Games:
-<img src="https://raw.githubusercontent.com/root-krish/root-krish/output/snake.svg" alt="Error" />
+<!-- dark snake -->
+![BEPb's github activity graph](https://raw.githubusercontent.com/root-krish/root-krish/output/github-contribution-grid-snake-dark.svg)
 
 
 <picture>
