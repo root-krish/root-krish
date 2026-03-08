@@ -14,7 +14,8 @@ Hello, I'm Krishnendu Ghosh, a Computer Science student at Barrackpore Rastragur
 
 # Games:
 <!-- dark snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/root-krish/root-krish/output/github-contribution-grid-snake-dark.svg)
+<!-- dark snake -->
+![error](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
 
 
 <picture>
