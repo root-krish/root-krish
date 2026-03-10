@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hello, I'm Krishnendu Ghosh, a Computer Science student at Barrackpore Rastraguru Surendranath College. I enjoy working with Linux systems, especially Fedora, and exploring programming and open-source technologies. I am passionate about learning new tools and improving my technical skills while sharing my work and projects on GitHub.
 
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/krishnendu6080) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/krishnendu6080) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krishnendu6080) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnendu6080) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/krishnendu6080) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/krishnendu6080) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/krishnendu6080) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnendu6080@proton.me) 
 
@@ -16,13 +15,6 @@ Hello, I'm Krishnendu Ghosh, a Computer Science student at Barrackpore Rastragur
 <!-- dark snake -->
 <!-- dark snake -->
 ![error](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
-
-###
-
-###
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=root-krish&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
@@ -33,7 +25,7 @@ Hello, I'm Krishnendu Ghosh, a Computer Science student at Barrackpore Rastragur
 [![](https://visitcount.itsvg.in/api?id=root-krish&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/root-krish) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rootkrish) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
