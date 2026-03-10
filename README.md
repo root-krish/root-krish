@@ -17,13 +17,6 @@ Hello, I'm Krishnendu Ghosh, a Computer Science student at Barrackpore Rastragur
 <!-- dark snake -->
 ![error](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/root-krish/root-krish/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/root-krish/root-krish/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/root-krish/root-krish/output/pacman-contribution-graph.svg">
-</picture>
-
 ###
 
 ###
@@ -40,7 +33,7 @@ Hello, I'm Krishnendu Ghosh, a Computer Science student at Barrackpore Rastragur
 [![](https://visitcount.itsvg.in/api?id=root-krish&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/krishnendu6080) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/root-krish) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
