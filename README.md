@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Krishnendu%20Ghosh&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Student&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Krishnendu%20Ghosh&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=%F0%9F%8E%93%20B.Sc.%20Computer%20Science%20(Hons.)%20Part-time%20student%2C%20full-time%20innovator%20%F0%9F%9A%80&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=root-krish">
@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - Hello, I'm Krishnendu Ghosh, a Computer Science student at Barrackpore Rastraguru Surendranath College. I enjoy working with Linux systems, especially Fedora, and exploring programming and open-source technologies. I am passionate about learning new tools and improving my technical skills while sharing my work and projects on GitHub.
@@ -36,9 +36,6 @@
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=root-krish&theme=highcontrast&radius=10" alt="root-krish's Activity Graph" />
 </p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
 
 
 ## 🛠️ Languages & Tools
