@@ -1,4 +1,4 @@
-![Krishnendu Ghosh Banner](https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Krishnendu%20Ghosh&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=%F0%9F%8E%93%20B.Sc.%20Computer%20Science%20(Hons.)%20Part-time%20student%2C%20full-time%20innovator%20%F0%9F%9A%80&descSize=22&descColor=FFFFFF&descAlignY=65)
+![Krishnendu Ghosh Banner](https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Krishnendu%20Ghosh&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=%F0%9F%8E%93%20B.Sc.%20Computer%20Science%20(Hons.)%20%F0%9F%8E%93-nl-%F0%9F%87%AE%F0%9F%87%B3%20Barrackpore%20Rastraguru%20Surendranath%20College%20%F0%9F%9A%80&descSize=22&descColor=FFFFFF&descAlignY=65)
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=root-krish">
     <img src="https://komarev.com/ghpvc/?username=root-krish&label=Profile%20views&color=00FFFF&style=flat-square" alt="root-krish's profile views" />
