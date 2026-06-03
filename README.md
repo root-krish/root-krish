@@ -1,5 +1,16 @@
+<div align="center">
+  <table bgcolor="#000000" style="border:none; border-collapse:collapse;">
+    <tr>
+      <td>
+        <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:00416A&text=KRiSHNENDU%20GHOSH&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" alt="Krishnendu Ghosh Banner" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:000000,100:00416A&text=KRiSHNENDU%20GHOSH&fontSize=60&fontColor=dc143c&animation=fadeIn&fontAlignY=40&desc=%F0%9F%8E%93%20B.Sc.%20Computer%20Science%20%28Hons.%29%20%F0%9F%8E%93-nl-%F0%9F%87%AE%F0%9F%87%B3%20Barrackpore%20Rastraguru%20Surendranath%20College%20%F0%9F%9A%80&descSize=22&descColor=20B2AA&descAlignY=65" alt="Krishnendu Ghosh Banner" width="100%" />
+  <strong>🎓 B.Sc. Computer Science (Hons.) 🎓</strong><br/>
+  🇮🇳 Barrackpore Rastraguru Surendranath College 🚀
 </p>
 
 <p align="center">
@@ -45,6 +56,7 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=root-krish&theme=highcontrast&radius=10" alt="root-krish's Activity Graph" />
 </p>
 
+
 ## 🔗 Connect with Me
 <div align="center">
   <a href="https://www.linkedin.com/in/krishnendu6080/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;
@@ -63,3 +75,4 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
 </div>
+
