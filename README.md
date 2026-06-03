@@ -2,7 +2,7 @@
   <table bgcolor="#0D1117" style="border:none; border-collapse:collapse;">
     <tr>
       <td>
-        <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:00416A&text=KRiSHNENDU%20GHOSH&fontSize=70&fontColor=00FFFF&animation=fadeIn&fontAlignY=50" alt="Krishnendu Ghosh Banner" />
+        <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:00416A&text=KRiSHNENDU%20GHOSH&fontSize=70&fontColor=dc143c&animation=fadeIn&fontAlignY=50" alt="Krishnendu Ghosh Banner" />
       </td>
     </tr>
   </table>
